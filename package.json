@@ -1,0 +1,40 @@
+{
+  "name": "vssl-crew",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VSSL Crew",
+  "author": "Adam Jones",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.13.3",
+    "bootstrap": "^5.1.3",
+    "gatsby": "^4.2.0",
+    "gatsby-plugin-image": "^2.2.0",
+    "gatsby-plugin-manifest": "^4.2.0",
+    "gatsby-plugin-react-helmet": "^5.2.0",
+    "gatsby-plugin-sass": "^5.2.0",
+    "gatsby-plugin-sharp": "^4.2.0",
+    "gatsby-plugin-sitemap": "^5.2.0",
+    "gatsby-plugin-styled-components": "^5.2.0",
+    "gatsby-source-filesystem": "^4.2.0",
+    "gatsby-source-wordpress": "^6.2.0",
+    "gatsby-transformer-sharp": "^4.2.0",
+    "pure-react-carousel": "^1.27.8",
+    "react": "^17.0.1",
+    "react-bootstrap": "^2.0.2",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-reveal": "^1.2.2",
+    "sass": "^1.43.4",
+    "styled-components": "^5.3.3"
+  }
+}
